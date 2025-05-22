@@ -9,3 +9,10 @@ vosk
 # Tkinter (usually built-in with Python)
 customtkinter
 # PyQt5
+# For global hotkeys
+pynput
+# For summarization
+transformers
+torch
+# For translation
+translators
