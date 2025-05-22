@@ -1,0 +1,11 @@
+# For audio input
+# PyAudio (alternative: sounddevice)
+sounddevice
+numpy
+# For STT (examples, will depend on chosen service)
+# google-cloud-speech
+vosk
+# For GUI
+# Tkinter (usually built-in with Python)
+customtkinter
+# PyQt5
